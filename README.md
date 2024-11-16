@@ -195,4 +195,4 @@ Here's an outline for new introductory slides on **TensorFlow** and **Core ML** 
 
 ## Thank You!
 
-**by**: Vinh Nguyen (@vinhnx)
+**by**: Vinh Nguyen ([@vinhnx](https://vinhnx.github.io))
