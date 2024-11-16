@@ -140,12 +140,6 @@ User Input → Tokenizer → Model Process → Probabilistic Output → Display
 
 ---
 
-## Thank You for Attending!
+## Thank You!
 
-**Connect**: Vinh Nguyen (@vinhnx)
-
-*Stay curious and build amazing experiences!*
-
----
-
-These updates include a mix of engagement strategies and clarity for better comprehension by iOS engineers.
+**by**: Vinh Nguyen (@vinhnx)
