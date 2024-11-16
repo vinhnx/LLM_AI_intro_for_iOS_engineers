@@ -13,6 +13,8 @@
 - **Enhance Productivity**: Automate code generation, documentation, and feature prototyping.
 - **Advanced NLP Features**: Implement contextual search, smart text processing, and content recommendations.
 - **Simplified Data Insights**: Use LLMs for complex data validation and natural language analysis.
+- **Core ML** is Apple's native framework for on-device machine learning, optimized for performance and battery life.
+- **TensorFlow** is an open-source platform developed by Google for building and deploying machine learning models.
 
 ---
 
@@ -102,6 +104,57 @@ User Input → Tokenizer → Model Process → Probabilistic Output → Display
 ## Practical Python Examples
 
 👩‍💻 **Hands-on Code**: Run the sample code on [Google Colab](https://colab.research.google.com/github/vinhnx/LLM_AI_intro_for_iOS_engineers/blob/main/Intro_to_LLM_GenAI.ipynb).
+
+Here's an outline for new introductory slides on **TensorFlow** and **Core ML** to include in your presentation:
+
+---
+
+### TensorFlow
+
+**TensorFlow** is an open-source platform developed by Google for building and deploying machine learning models.
+
+#### Key Points
+
+- **Scalable & Flexible**: Supports various ML tasks from research to production.
+- **Multi-Platform**: Compatible with servers, mobile devices, and web apps.
+- **Rich Ecosystem**: Includes tools like **TensorFlow Lite** for mobile optimization and **TensorFlow.js** for web-based ML.
+
+**Why iOS Engineers Should Care**:
+
+- Pre-trained TensorFlow models can be easily converted and deployed to iOS apps using Core ML.
+
+---
+
+### Core ML: Apple's Machine Learning Framework
+
+**Core ML** is Apple's native framework for on-device machine learning, optimized for performance and battery life.
+
+#### Key Features
+
+- **Seamless Integration**: Directly integrates with Xcode and Swift.
+- **Privacy-Focused**: All computations are done locally, ensuring user data privacy.
+- **Optimized Performance**: Models run efficiently using device-specific hardware accelerators like the Apple Neural Engine (ANE).
+
+**Benefits for iOS Engineers**:
+
+- Simplifies the deployment of machine learning models.
+- Supports custom models and converters for various formats, including TensorFlow.
+
+---
+
+### Core ML in Action: Example Use Cases
+
+- **Image Classification**: Detect objects and scenes directly on iOS devices.
+- **Natural Language Processing (NLP)**: Enable features like text prediction and sentiment analysis.
+- **Custom ML Tasks**: Implement any tailored model for specific app requirements.
+
+---
+
+## Summary: TensorFlow and Core ML
+
+- **TensorFlow** is powerful for building and training models.
+- **Core ML** ensures models run efficiently and privately on iOS.
+- The combination allows iOS engineers to leverage state-of-the-art ML with optimized performance.
 
 ---
 
