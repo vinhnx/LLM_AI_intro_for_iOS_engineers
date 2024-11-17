@@ -1,3 +1,8 @@
+[![Twitter](https://img.shields.io/twitter/follow/vinhnx)](https://twitter.com/vinhnx)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinhnx/LLM_AI_intro_for_iOS_engineers/blob/main/Intro_to_LLM_GenAI.ipynb)
+
+--
+
 # Introduction to Large Language Models
 
 ## A Guide for iOS Engineers
