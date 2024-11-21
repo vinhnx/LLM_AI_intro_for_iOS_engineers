@@ -1,8 +1,3 @@
-[![Twitter](https://img.shields.io/twitter/follow/vinhnx)](https://twitter.com/vinhnx)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinhnx/LLM_AI_intro_for_iOS_engineers/blob/main/Intro_to_LLM_GenAI.ipynb)
-
---
-
 # Introduction to Large Language Models
 
 ## A Guide for iOS Engineers
@@ -110,8 +105,6 @@ User Input → Tokenizer → Model Process → Probabilistic Output → Display
 
 👩‍💻 **Hands-on Code**: Run the sample code on [Google Colab](https://colab.research.google.com/github/vinhnx/LLM_AI_intro_for_iOS_engineers/blob/main/Intro_to_LLM_GenAI.ipynb).
 
-Here's an outline for new introductory slides on **TensorFlow** and **Core ML** to include in your presentation:
-
 ---
 
 ### TensorFlow
@@ -200,4 +193,4 @@ Here's an outline for new introductory slides on **TensorFlow** and **Core ML** 
 
 ## Thank You!
 
-**by**: Vinh Nguyen ([@vinhnx](https://vinhnx.github.io))
+**by**: Vinh Nguyen (@vinhnx)
