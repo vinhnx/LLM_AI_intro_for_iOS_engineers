@@ -13,8 +13,8 @@
 - **Enhance Productivity**: Automate code generation, documentation, and feature prototyping.
 - **Advanced NLP Features**: Implement contextual search, smart text processing, and content recommendations.
 - **Simplified Data Insights**: Use LLMs for complex data validation and natural language analysis.
-- **Core ML** is Apple's native framework for on-device machine learning, optimized for performance and battery life.
-- **TensorFlow** is an open-source platform developed by Google for building and deploying machine learning models.
+- **[Core ML](https://developer.apple.com/machine-learning/api/#vision)** is Apple's native framework for on-device machine learning, optimized for performance and battery life.
+- **[TensorFlow](https://www.tensorflow.org/)** is an open-source platform developed by Google for building and deploying machine learning models.
 
 ---
 
@@ -111,6 +111,8 @@ User Input → Tokenizer → Model Process → Probabilistic Output → Display
 
 **TensorFlow** is an open-source platform developed by Google for building and deploying machine learning models.
 
+[Overview](https://www.tensorflow.org/)
+
 #### Key Points
 
 - **Scalable & Flexible**: Supports various ML tasks from research to production.
@@ -126,6 +128,8 @@ User Input → Tokenizer → Model Process → Probabilistic Output → Display
 ### Core ML: Apple's Machine Learning Framework
 
 **Core ML** is Apple's native framework for on-device machine learning, optimized for performance and battery life.
+
+[Overview](https://developer.apple.com/machine-learning/api/#vision)
 
 #### Key Features
 
@@ -192,5 +196,7 @@ User Input → Tokenizer → Model Process → Probabilistic Output → Display
 ---
 
 ## Thank You!
+
+[Slide in GitHub](https://github.com/vinhnx/LLM_AI_intro_for_iOS_engineers)
 
 **by**: Vinh Nguyen (@vinhnx)
